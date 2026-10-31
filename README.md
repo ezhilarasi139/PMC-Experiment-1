@@ -4,9 +4,6 @@
 ## Date of experiment : 31.10.2026
 
 
-
-
-
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
@@ -87,6 +84,8 @@ HLT
 ```
 
 ### Output
+<img width="1920" height="1200" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/ac1fb119-c148-4641-833e-2e706991dc4a" />
+
 
 ### Subtraction
 ```
